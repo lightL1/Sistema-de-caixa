@@ -1,0 +1,19 @@
+body {
+  max-width: 100vh;
+  background-color: aquamarine;
+}
+input {
+  color: red;
+}
+a {
+  background: block;
+  color: red;
+  border-radius: 5px;
+  max-width: 200px;
+
+
+}
+form {
+  padding-left: 200px;
+  margin-top: 100px;
+}
